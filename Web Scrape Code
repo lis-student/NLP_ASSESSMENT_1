@@ -1,3 +1,4 @@
+'''python
 import requests
 from bs4 import BeautifulSoup
 import re
@@ -81,4 +82,4 @@ for thread in list_of_threads:
             ID = [i for i in range(len(Author))]
             Data = pd.DataFrame(data={'ID': ID, 'Author': Author, 'Native_Language': Native_Language, 'Is_Question': Is_Question, 'Comment': Comment})
             Data.to_csv('Data.csv')
-
+'''
