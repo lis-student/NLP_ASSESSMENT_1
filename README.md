@@ -1,2 +1,0 @@
-# NLP_ASSESSMENT_1
-NLP Assessment 1 
